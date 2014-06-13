@@ -1,4 +1,4 @@
-Swift-Programming-Tutorial-21---Enumerations
+Swift Programming Tutorial 21 - Enumerations
 ============================================
 
-Code for the following video tutorial 
+Code for the following video tutorial http://youtu.be/JhfEfitNNNg
